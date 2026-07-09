@@ -1,0 +1,3 @@
+semantic-router
+openai
+python-dotenv
